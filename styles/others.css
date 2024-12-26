@@ -1,0 +1,14 @@
+.w-sp {
+    width: 20rem;
+}
+
+@media (max-width: 768px) { /* Mobile screen styles */
+    .w-sp {
+        width: 60%; 
+    }
+}
+
+
+.shadow-sp {
+    box-shadow: 0.75rem 0.75rem 0 black;
+}
